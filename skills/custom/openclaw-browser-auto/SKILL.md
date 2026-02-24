@@ -1,3 +1,9 @@
+---
+name: openclaw-browser-auto
+description: 配置OpenClaw连接远程Chrome/CDP浏览器进行自动化操作。
+version: 1.0.0
+---
+
 # OpenClaw 浏览器自动化配置
 
 配置OpenClaw连接远程Chrome/CDP浏览器进行自动化操作。
