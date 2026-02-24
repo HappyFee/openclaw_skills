@@ -1,0 +1,5 @@
+# IDENTITY.md
+- Name: {{name}}
+- ID: {{id}}
+- Theme: {{theme}}
+- Created: {{date}}

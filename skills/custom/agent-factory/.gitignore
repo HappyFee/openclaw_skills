@@ -1,0 +1,6 @@
+# OpenClaw Skill 忽略配置
+node_modules/
+*.log
+*.bak_*
+.env
+.DS_Store

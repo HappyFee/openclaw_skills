@@ -1,0 +1,5 @@
+{
+  "slug": "agent-factory",
+  "version": "1.0.0",
+  "description": "自动化创建新 Agent 并注入灵魂。支持自动生成工作空间、IDENTITY、SOUL 和配置建议。"
+}
